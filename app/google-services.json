@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319408754556",
+    "project_id": "acilyardim-841ff",
+    "storage_bucket": "acilyardim-841ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319408754556:android:14c1c8210e1c113b2d1ef9",
+        "android_client_info": {
+          "package_name": "com.bysoftware.acilyardim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319408754556-nrvdf0r1dqpophjmgds9fn0e6iuu2gp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bysoftware.acilyardim",
+            "certificate_hash": "bab6bd307a420ab83bc34fac787ece6400da91d1"
+          }
+        },
+        {
+          "client_id": "319408754556-aug91v1v1fn2jbe1tedbv0u6d42k2sui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVjBCpqOZxSrJWcuFavBTORyHOSMla4XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319408754556-aug91v1v1fn2jbe1tedbv0u6d42k2sui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
